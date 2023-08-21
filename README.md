@@ -12,3 +12,5 @@ This notebook contains the ocean basin terms for searching Web of Science using 
 ### The second notebook (*02_analysis-github*)
 
 This notebook will produce the figures and tables in the paper and supplementary material. Note that additional information from UNESCO ([GERD](http://data.uis.unesco.org/index.aspx?queryid=74#); and [researchers per million inhabitants](http://data.uis.unesco.org/index.aspx?queryid=3685)) and [InCites](https://incites.clarivate.com/) is required to complete some analyses.
+
+This repository can be cited via [![DOI](https://zenodo.org/badge/679380409.svg)](https://zenodo.org/badge/latestdoi/679380409)
